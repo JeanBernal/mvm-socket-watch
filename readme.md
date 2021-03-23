@@ -9,4 +9,4 @@
   - npm i
 ## Levantar proyecto
   - npm run dev
-    -localhost:3001
+    - localhost:3001
