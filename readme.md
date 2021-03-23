@@ -6,7 +6,7 @@
   - [ngrok](https://ngrok.com/)
 
 ## Instalar dependencias
-  npm i
+  - npm i
 ## Levantar proyecto
-  npm run dev
+  - npm run dev
     -localhost:3001
